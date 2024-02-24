@@ -4,4 +4,4 @@
 
 # Press Kit
 
-Assets for the public to use when referring to offen.software. All material is licensed under CC BY-SA 4.0.
+Assets for the public to use when referring to **offen.software**. All material is licensed under CC BY-SA 4.0.
